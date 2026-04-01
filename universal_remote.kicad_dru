@@ -1,0 +1,20 @@
+(version 1)
+(rule Minimum_clearance_1__Metanoia_
+	(constraint clearance (min 0.4mm))
+)
+(rule Copper_to_edge_clearance_1__Metanoia_
+	(constraint edge_clearance (min 0.4mm))
+)
+(rule Via_style_1__Metanoia_
+	(constraint via_diameter (min 1.2mm) (max 2mm))
+	(constraint hole_size (min 0.6mm) (max 1.2mm))
+)
+(rule Hole_to_hole_distance_1__Metanoia_
+	(constraint hole_to_hole (min 0.6mm))
+)
+(rule Copper_to_hole_clearance_1__Metanoia_
+	(constraint hole_clearance (min 0.3mm))
+)
+(rule Minimum_connection_width_1
+	(constraint connection_width (min 0.4mm))
+)
