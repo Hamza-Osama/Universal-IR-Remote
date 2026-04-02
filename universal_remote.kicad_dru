@@ -18,3 +18,6 @@
 (rule Minimum_connection_width_1
 	(constraint connection_width (min 0.4mm))
 )
+(rule Minimum_annular_width_1__Metanoia_
+	(constraint annular_width (min 0.25mm))
+)
