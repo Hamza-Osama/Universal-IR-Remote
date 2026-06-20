@@ -3,9 +3,9 @@ Arduino based remote with receiver and transmitter, where you can copy IR code f
 
 ## Design
 ### Schematic
-![alt text](https://github.com/Hamza-Osama/Universal-IR-Remote/blob/main/Pictures/Schematic.png?raw=true "Schematic")
+![alt text](/Pictures/Schematic.png "Schematic")
 ### PCB
-![alt text](https://github.com/Hamza-Osama/Universal-IR-Remote/blob/main/Pictures/PCB.png?raw=true "PCB")
+![alt text](/Pictures/PCB.png "PCB")
 ### 3D Visualization
-![alt text](https://github.com/Hamza-Osama/Universal-IR-Remote/blob/main/Pictures/3D%20View%20-%201.png?raw=true "3D View")
-![alt text](https://github.com/Hamza-Osama/Universal-IR-Remote/blob/main/Pictures/3D%20View%20-%202.png?raw=true "3D View")
+![alt text](/Pictures/3D%20View%20-%201.png "3D View")
+![alt text](/Pictures/3D%20View%20-%202.png "3D View")
